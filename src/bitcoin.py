@@ -14,6 +14,7 @@ import hashlib
 import random
 import os
 
+
 # TODO: change STUDENT_ID, BROKER_USER, and BROKER_PASSWD
 STUDENT_ID = 'koconn48'
 TASKS_TOPIC = f'/topic/bitcoin/{STUDENT_ID}_tasks'
