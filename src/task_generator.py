@@ -1,7 +1,7 @@
 '''
 CS 3700 - Networking & Distributed Computing - Fall 2024
 Instructor: Thyago Mota
-Student(s):
+Student(s): Kevin O'Connell
 Description: Project 3 - Bitcoin Simulation (task generator)
 '''
 
