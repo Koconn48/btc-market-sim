@@ -1,3 +1,10 @@
+To Run: 
+Enter Command into Terminal 2: python src/bitcoin.py b 1
+
+Next, Enter Command into Terminal 1: python src/bitcoin.py m
+
+Output.txt should generate with the task solutions
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/omGABKEa)
 # Overview
 
