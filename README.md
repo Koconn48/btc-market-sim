@@ -1,6 +1,10 @@
 To Run: 
 
-Enter Command into Terminal 2: ... python src/bitcoin.py b 1 ...
+Enter Command into Terminal 2: 
+
+...
+python src/bitcoin.py b 1
+...
 
 Next, Enter Command into Terminal 1: python src/bitcoin.py m
 
